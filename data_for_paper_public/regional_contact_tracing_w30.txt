@@ -1,0 +1,301 @@
+﻿Category,Upper Tier Local Authority,Region,Total,Total reached,Percentage reached,Start date,End date
+People transferred to contact tracing system,Barking and Dagenham,London,8871,7701,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Barnet,London,10830,9059,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Barnsley,Yorkshire and The Humber,11063,9405,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Bath and North East Somerset,South West,3989,3338,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Bedford,East of England,4359,3728,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Bexley,London,8837,7692,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Birmingham,West Midlands,47731,36670,77,28/05/2020,23/12/2020
+People transferred to contact tracing system,Blackburn with Darwen,North West,10798,9392,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Blackpool,North West,5574,4897,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Bolton,North West,16155,14834,92,28/05/2020,23/12/2020
+People transferred to contact tracing system,"Bournemouth, Christchurch and Poole",South West,8007,6589,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Bracknell Forest,South East,2500,2230,89,28/05/2020,23/12/2020
+People transferred to contact tracing system,Bradford,Yorkshire and The Humber,31814,26384,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Brent,London,8964,7559,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Brighton and Hove,South East,4857,4107,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,"Bristol, City of",South West,16902,13894,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Bromley,London,8850,8015,91,28/05/2020,23/12/2020
+People transferred to contact tracing system,Buckinghamshire,South East,11747,10043,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Bury,North West,10662,8802,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Calderdale,Yorkshire and The Humber,9208,8678,94,28/05/2020,23/12/2020
+People transferred to contact tracing system,Cambridgeshire,East of England,8656,7644,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Camden,London,5403,4690,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Central Bedfordshire,East of England,5612,5027,90,28/05/2020,23/12/2020
+People transferred to contact tracing system,Cheshire East,North West,9769,8229,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Cheshire West and Chester,North West,11151,9058,81,28/05/2020,23/12/2020
+People transferred to contact tracing system,City of London & Hackney,London,9100,7697,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Cornwall & Isles of Scilly,South West,4005,3294,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,County Durham,North East,19946,16951,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Coventry,West Midlands,10205,8333,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Croydon,London,9628,7897,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Cumbria,North West,10694,8921,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Darlington,North East,3720,3110,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Derby,East Midlands,8913,7497,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Derbyshire,East Midlands,24053,20832,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Devon,South West,10601,8772,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Doncaster,Yorkshire and The Humber,13614,11421,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Dorset,South West,3700,3153,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Dudley,West Midlands,12258,10389,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Ealing,London,10673,8819,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,East Riding of Yorkshire,Yorkshire and The Humber,10721,9489,89,28/05/2020,23/12/2020
+People transferred to contact tracing system,East Sussex,South East,10387,8981,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Enfield,London,11460,9590,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Essex,East of England,41566,36524,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Gateshead,North East,7954,6618,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Gloucestershire,South West,9862,8358,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Greenwich,London,7528,6615,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Halton,North West,4987,4204,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Hammersmith and Fulham,London,5116,3891,76,28/05/2020,23/12/2020
+People transferred to contact tracing system,Hampshire,South East,20334,17508,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Haringey,London,7828,6408,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Harrow,London,7511,6644,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Hartlepool,North East,4574,3833,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Havering,London,12836,12000,93,28/05/2020,23/12/2020
+People transferred to contact tracing system,"Herefordshire, County of",West Midlands,2555,2185,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Hertfordshire,East of England,27516,24573,89,28/05/2020,23/12/2020
+People transferred to contact tracing system,Hillingdon,London,9314,8046,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Hounslow,London,7906,6557,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Isle of Wight,South East,918,796,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Islington,London,5977,5048,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Kensington and Chelsea,London,3541,2902,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Kent,South East,54149,46877,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,"Kingston upon Hull, City of",Yorkshire and The Humber,11533,10090,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Kingston upon Thames,London,4965,4459,90,28/05/2020,23/12/2020
+People transferred to contact tracing system,Kirklees,Yorkshire and The Humber,21379,17665,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Knowsley,North West,7959,6686,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Lambeth,London,8631,7439,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Lancashire,North West,53891,46677,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Leeds,Yorkshire and The Humber,37766,30836,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Leicester,East Midlands,19617,16806,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Leicestershire,East Midlands,22693,20386,90,28/05/2020,23/12/2020
+People transferred to contact tracing system,Lewisham,London,6845,5950,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Lincolnshire,East Midlands,22067,18775,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Liverpool,North West,26155,20683,79,28/05/2020,23/12/2020
+People transferred to contact tracing system,Luton,East of England,7929,7234,91,28/05/2020,23/12/2020
+People transferred to contact tracing system,Manchester,North West,31818,26697,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Medway,South East,13229,11749,89,28/05/2020,23/12/2020
+People transferred to contact tracing system,Merton,London,5522,4839,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Middlesbrough,North East,6108,5050,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Milton Keynes,South East,7221,6494,90,28/05/2020,23/12/2020
+People transferred to contact tracing system,Newcastle upon Tyne,North East,14817,12246,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Newham,London,12906,10270,80,28/05/2020,23/12/2020
+People transferred to contact tracing system,Norfolk,East of England,13107,11956,91,28/05/2020,23/12/2020
+People transferred to contact tracing system,North East Lincolnshire,Yorkshire and The Humber,5966,5257,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,North Lincolnshire,Yorkshire and The Humber,5477,4856,89,28/05/2020,23/12/2020
+People transferred to contact tracing system,North Somerset,South West,4748,4104,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,North Tyneside,North East,7397,6324,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,North Yorkshire,Yorkshire and The Humber,14682,12987,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Northamptonshire,East Midlands,18198,16147,89,28/05/2020,23/12/2020
+People transferred to contact tracing system,Northumberland,North East,9590,8145,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Nottingham,East Midlands,17316,14281,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Nottinghamshire,East Midlands,27261,23276,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Oldham,North West,15818,14624,92,28/05/2020,23/12/2020
+People transferred to contact tracing system,Oxfordshire,South East,12953,11495,89,28/05/2020,23/12/2020
+People transferred to contact tracing system,Peterborough,East of England,5796,5308,92,28/05/2020,23/12/2020
+People transferred to contact tracing system,Plymouth,South West,4163,3642,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Portsmouth,South East,5559,4856,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Reading,South East,3708,3259,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Redbridge,London,13999,11352,81,28/05/2020,23/12/2020
+People transferred to contact tracing system,Redcar and Cleveland,North East,4885,4115,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Richmond upon Thames,London,4512,3957,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Rochdale,North West,13814,11995,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Rotherham,Yorkshire and The Humber,12171,10229,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Rutland,East Midlands,608,546,90,28/05/2020,23/12/2020
+People transferred to contact tracing system,Salford,North West,14215,11456,81,28/05/2020,23/12/2020
+People transferred to contact tracing system,Sandwell,West Midlands,14436,12424,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Sefton,North West,10908,8863,81,28/05/2020,23/12/2020
+People transferred to contact tracing system,Sheffield,Yorkshire and The Humber,27116,21981,81,28/05/2020,23/12/2020
+People transferred to contact tracing system,Shropshire,West Midlands,6199,5236,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Slough,South East,5632,4723,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Solihull,West Midlands,6852,5655,83,28/05/2020,23/12/2020
+People transferred to contact tracing system,Somerset,South West,7244,6315,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,South Gloucestershire,South West,7558,6479,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,South Tyneside,North East,6616,5545,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Southampton,South East,4325,3680,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Southend-on-Sea,East of England,5651,4923,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Southwark,London,7614,6465,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,St. Helens,North West,7730,6636,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Staffordshire,West Midlands,30599,26204,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Stockport,North West,11175,10100,90,28/05/2020,23/12/2020
+People transferred to contact tracing system,Stockton-on-Tees,North East,8665,7319,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Stoke-on-Trent,West Midlands,11541,9894,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Suffolk,East of England,9364,7721,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Sunderland,North East,11493,9640,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Surrey,South East,25372,21705,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Sutton,London,5205,4458,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Swindon,South West,4583,4223,92,28/05/2020,23/12/2020
+People transferred to contact tracing system,Tameside,North West,10835,9115,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Telford and Wrekin,West Midlands,4805,4052,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Thurrock,East of England,7395,6332,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Torbay,South West,1982,1698,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,Tower Hamlets,London,12058,10529,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Trafford,North West,9463,8607,91,28/05/2020,23/12/2020
+People transferred to contact tracing system,Unknown,Unknown,12466,5240,42,28/05/2020,23/12/2020
+People transferred to contact tracing system,Wakefield,Yorkshire and The Humber,14778,12812,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Walsall,West Midlands,10708,8693,81,28/05/2020,23/12/2020
+People transferred to contact tracing system,Waltham Forest,London,10132,8586,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Wandsworth,London,8589,7548,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Warrington,North West,9136,7634,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Warwickshire,West Midlands,14306,12160,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,West Berkshire,South East,2399,2158,90,28/05/2020,23/12/2020
+People transferred to contact tracing system,West Sussex,South East,11293,9812,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Westminster,London,5587,4391,79,28/05/2020,23/12/2020
+People transferred to contact tracing system,Wigan,North West,17453,15145,87,28/05/2020,23/12/2020
+People transferred to contact tracing system,Wiltshire,South West,5841,5142,88,28/05/2020,23/12/2020
+People transferred to contact tracing system,Windsor and Maidenhead,South East,3398,2874,85,28/05/2020,23/12/2020
+People transferred to contact tracing system,Wirral,North West,10396,8556,82,28/05/2020,23/12/2020
+People transferred to contact tracing system,Wokingham,South East,3123,2890,93,28/05/2020,23/12/2020
+People transferred to contact tracing system,Wolverhampton,West Midlands,9800,8205,84,28/05/2020,23/12/2020
+People transferred to contact tracing system,Worcestershire,West Midlands,12219,10473,86,28/05/2020,23/12/2020
+People transferred to contact tracing system,York,Yorkshire and The Humber,5288,4688,89,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Barking and Dagenham,London,18329,14223,78,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Barnet,London,21238,16198,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Barnsley,Yorkshire and The Humber,21103,14041,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Bath and North East Somerset,South West,10230,6669,65,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Bedford,East of England,9063,6748,74,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Bexley,London,18719,15029,80,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Birmingham,West Midlands,101681,64798,64,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Blackburn with Darwen,North West,25269,14228,56,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Blackpool,North West,9900,6377,64,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Bolton,North West,33569,20236,60,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,"Bournemouth, Christchurch and Poole",South West,17467,11791,68,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Bracknell Forest,South East,5655,4487,79,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Bradford,Yorkshire and The Humber,73777,40918,55,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Brent,London,17841,12904,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Brighton and Hove,South East,10906,7584,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,"Bristol, City of",South West,38223,24482,64,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Bromley,London,19396,15727,81,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Buckinghamshire,South East,27155,20697,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Bury,North West,21554,13501,63,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Calderdale,Yorkshire and The Humber,20833,13067,63,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Cambridgeshire,East of England,20793,15055,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Camden,London,9981,7168,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Central Bedfordshire,East of England,13227,10422,79,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Cheshire East,North West,20011,13821,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Cheshire West and Chester,North West,20418,14026,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,City of London & Hackney,London,17637,12463,71,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Cornwall & Isles of Scilly,South West,9433,6788,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,County Durham,North East,42879,27283,64,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Coventry,West Midlands,22284,15026,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Croydon,London,19523,15118,77,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Cumbria,North West,22540,15862,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Darlington,North East,7171,4845,68,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Derby,East Midlands,19097,13089,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Derbyshire,East Midlands,50463,35411,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Devon,South West,24266,16898,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Doncaster,Yorkshire and The Humber,26026,17383,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Dorset,South West,9141,6568,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Dudley,West Midlands,26391,18209,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Ealing,London,21548,15191,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,East Riding of Yorkshire,Yorkshire and The Humber,22185,14948,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,East Sussex,South East,20892,16887,81,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Enfield,London,23306,18220,78,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Essex,East of England,87295,71179,82,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Gateshead,North East,15911,10399,65,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Gloucestershire,South West,21409,15756,74,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Greenwich,London,14960,11669,78,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Halton,North West,10046,6572,65,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Hammersmith and Fulham,London,8485,6142,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Hampshire,South East,47096,35156,75,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Haringey,London,15218,11424,75,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Harrow,London,16267,12386,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Hartlepool,North East,9236,6315,68,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Havering,London,28638,22432,78,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,"Herefordshire, County of",West Midlands,5504,3828,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Hertfordshire,East of England,62195,47199,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Hillingdon,London,20404,14849,73,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Hounslow,London,16566,11936,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Isle of Wight,South East,2250,1622,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Islington,London,11030,8270,75,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Kensington and Chelsea,London,5351,3857,72,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Kent,South East,113159,90979,80,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,"Kingston upon Hull, City of",Yorkshire and The Humber,22523,14919,66,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Kingston upon Thames,London,10899,8374,77,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Kirklees,Yorkshire and The Humber,45421,28261,62,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Knowsley,North West,15793,9641,61,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Lambeth,London,16493,12485,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Lancashire,North West,109049,69246,63,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Leeds,Yorkshire and The Humber,78071,48921,63,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Leicester,East Midlands,45071,27806,62,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Leicestershire,East Midlands,51807,34783,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Lewisham,London,13955,10742,77,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Lincolnshire,East Midlands,41780,30292,73,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Liverpool,North West,50275,30817,61,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Luton,East of England,19265,12735,66,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Manchester,North West,69651,40691,58,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Medway,South East,27939,22950,82,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Merton,London,11643,9049,78,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Middlesbrough,North East,12610,8255,65,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Milton Keynes,South East,16661,13397,80,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Newcastle upon Tyne,North East,34136,20544,60,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Newham,London,25859,19347,75,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Norfolk,East of England,28313,20817,74,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,North East Lincolnshire,Yorkshire and The Humber,11711,7744,66,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,North Lincolnshire,Yorkshire and The Humber,11524,8012,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,North Somerset,South West,10039,7321,73,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,North Tyneside,North East,14724,10010,68,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,North Yorkshire,Yorkshire and The Humber,31664,21828,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Northamptonshire,East Midlands,39394,27863,71,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Northumberland,North East,20660,14584,71,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Nottingham,East Midlands,40629,23728,58,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Nottinghamshire,East Midlands,55279,37373,68,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Oldham,North West,35752,20754,58,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Oxfordshire,South East,31328,21559,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Peterborough,East of England,14148,9894,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Plymouth,South West,10087,6956,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Portsmouth,South East,12670,8903,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Reading,South East,8297,6340,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Redbridge,London,29503,22744,77,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Redcar and Cleveland,North East,9672,6392,66,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Richmond upon Thames,London,10069,7397,73,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Rochdale,North West,29485,18210,62,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Rotherham,Yorkshire and The Humber,25180,16769,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Rutland,East Midlands,1324,928,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Salford,North West,26979,16752,62,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Sandwell,West Midlands,30770,20142,65,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Sefton,North West,19820,12634,64,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Sheffield,Yorkshire and The Humber,58266,36111,62,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Shropshire,West Midlands,13210,9235,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Slough,South East,12948,9233,71,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Solihull,West Midlands,14080,9480,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Somerset,South West,15797,11942,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,South Gloucestershire,South West,17000,11982,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,South Tyneside,North East,13122,9065,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Southampton,South East,9759,6583,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Southend-on-Sea,East of England,11258,9119,81,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Southwark,London,14030,10605,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,St. Helens,North West,15666,10105,65,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Staffordshire,West Midlands,62802,44440,71,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Stockport,North West,23949,15314,64,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Stockton-on-Tees,North East,17858,11832,66,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Stoke-on-Trent,West Midlands,23630,16631,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Suffolk,East of England,19419,14537,75,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Sunderland,North East,23043,15388,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Surrey,South East,56350,42545,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Sutton,London,10972,8728,80,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Swindon,South West,11607,8159,70,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Tameside,North West,21497,13681,64,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Telford and Wrekin,West Midlands,11003,7612,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Thurrock,East of England,15606,13025,83,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Torbay,South West,4498,3119,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Tower Hamlets,London,24673,18141,74,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Trafford,North West,19459,12351,63,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Unknown,Unknown,13518,4362,32,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Wakefield,Yorkshire and The Humber,30175,19919,66,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Walsall,West Midlands,23593,16079,68,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Waltham Forest,London,21097,16431,78,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Wandsworth,London,16733,12877,77,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Warrington,North West,17906,11953,67,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Warwickshire,West Midlands,31831,22666,71,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,West Berkshire,South East,5730,4502,79,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,West Sussex,South East,26167,19878,76,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Westminster,London,9703,7100,73,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Wigan,North West,35206,22986,65,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Wiltshire,South West,13338,9730,73,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Windsor and Maidenhead,South East,7246,5318,73,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Wirral,North West,19930,12881,65,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Wokingham,South East,7816,6021,77,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Wolverhampton,West Midlands,20895,14459,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,Worcestershire,West Midlands,26725,18486,69,28/05/2020,23/12/2020
+Contacts identified who were not managed by local health protection teams,York,Yorkshire and The Humber,14438,9142,63,28/05/2020,23/12/2020

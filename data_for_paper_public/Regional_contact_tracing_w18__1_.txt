@@ -1,0 +1,301 @@
+﻿Category,Upper Tier Local Authority,Region,Total,Total reached,Percentage reached
+People transferred to contact tracing system,Derby,East Midlands,739,600,81
+People transferred to contact tracing system,Derbyshire,East Midlands,1827,1490,82
+People transferred to contact tracing system,Leicester,East Midlands,5372,4358,81
+People transferred to contact tracing system,Leicestershire,East Midlands,2476,2170,88
+People transferred to contact tracing system,Lincolnshire,East Midlands,1260,1027,82
+People transferred to contact tracing system,Northamptonshire,East Midlands,2879,2230,77
+People transferred to contact tracing system,Nottingham,East Midlands,967,778,80
+People transferred to contact tracing system,Nottinghamshire,East Midlands,2034,1669,82
+People transferred to contact tracing system,Rutland,East Midlands,59,52,88
+People transferred to contact tracing system,Bedford,East of England,773,566,73
+People transferred to contact tracing system,Cambridgeshire,East of England,877,714,81
+People transferred to contact tracing system,Central Bedfordshire,East of England,622,474,76
+People transferred to contact tracing system,Essex,East of England,2164,1745,81
+People transferred to contact tracing system,Hertfordshire,East of England,2259,1848,82
+People transferred to contact tracing system,Luton,East of England,1092,900,82
+People transferred to contact tracing system,Milton Keynes,East of England,415,330,80
+People transferred to contact tracing system,Norfolk,East of England,930,750,81
+People transferred to contact tracing system,Peterborough,East of England,883,729,83
+People transferred to contact tracing system,Southend-on-Sea,East of England,420,335,80
+People transferred to contact tracing system,Suffolk,East of England,702,562,80
+People transferred to contact tracing system,Thurrock,East of England,319,246,77
+People transferred to contact tracing system,Barking and Dagenham,London,606,456,75
+People transferred to contact tracing system,Barnet,London,819,673,82
+People transferred to contact tracing system,Bexley,London,404,327,81
+People transferred to contact tracing system,Brent,London,694,550,79
+People transferred to contact tracing system,Bromley,London,445,379,85
+People transferred to contact tracing system,Camden,London,398,330,83
+People transferred to contact tracing system,City of London & Hackney,London,844,622,74
+People transferred to contact tracing system,Croydon,London,543,453,83
+People transferred to contact tracing system,Ealing,London,855,670,78
+People transferred to contact tracing system,Enfield,London,682,530,78
+People transferred to contact tracing system,Greenwich,London,450,374,83
+People transferred to contact tracing system,Hammersmith and Fulham,London,483,321,66
+People transferred to contact tracing system,Haringey,London,567,442,78
+People transferred to contact tracing system,Harrow,London,574,470,82
+People transferred to contact tracing system,Havering,London,654,553,85
+People transferred to contact tracing system,Hillingdon,London,724,591,82
+People transferred to contact tracing system,Hounslow,London,764,575,75
+People transferred to contact tracing system,Islington,London,427,348,81
+People transferred to contact tracing system,Kensington and Chelsea,London,380,283,74
+People transferred to contact tracing system,Kingston upon Thames,London,284,231,81
+People transferred to contact tracing system,Lambeth,London,640,541,85
+People transferred to contact tracing system,Lewisham,London,471,371,79
+People transferred to contact tracing system,Merton,London,313,261,83
+People transferred to contact tracing system,Newham,London,920,506,55
+People transferred to contact tracing system,Redbridge,London,931,706,76
+People transferred to contact tracing system,Richmond upon Thames,London,351,298,85
+People transferred to contact tracing system,Southwark,London,671,508,76
+People transferred to contact tracing system,Sutton,London,279,227,81
+People transferred to contact tracing system,Tower Hamlets,London,764,611,80
+People transferred to contact tracing system,Waltham Forest,London,590,465,79
+People transferred to contact tracing system,Wandsworth,London,704,612,87
+People transferred to contact tracing system,Westminster,London,513,320,62
+People transferred to contact tracing system,County Durham,North East,1783,1529,86
+People transferred to contact tracing system,Darlington,North East,290,241,83
+People transferred to contact tracing system,Gateshead,North East,1052,872,83
+People transferred to contact tracing system,Hartlepool,North East,461,389,84
+People transferred to contact tracing system,Middlesbrough,North East,665,574,86
+People transferred to contact tracing system,Newcastle upon Tyne,North East,2243,1850,82
+People transferred to contact tracing system,North Tyneside,North East,891,761,85
+People transferred to contact tracing system,Northumberland,North East,1286,1098,85
+People transferred to contact tracing system,Redcar and Cleveland,North East,371,309,83
+People transferred to contact tracing system,South Tyneside,North East,1010,839,83
+People transferred to contact tracing system,Stockton-on-Tees,North East,688,576,84
+People transferred to contact tracing system,Sunderland,North East,1608,1342,83
+People transferred to contact tracing system,Blackburn with Darwen,North West,1984,1705,86
+People transferred to contact tracing system,Blackpool,North West,597,476,80
+People transferred to contact tracing system,Bolton,North West,3454,2566,74
+People transferred to contact tracing system,Bury,North West,1650,1078,65
+People transferred to contact tracing system,Cheshire East,North West,1156,974,84
+People transferred to contact tracing system,Cheshire West and Chester,North West,1264,1027,81
+People transferred to contact tracing system,Cumbria,North West,1090,882,81
+People transferred to contact tracing system,Halton,North West,862,706,82
+People transferred to contact tracing system,Knowsley,North West,1261,1016,81
+People transferred to contact tracing system,Lancashire,North West,7577,5929,78
+People transferred to contact tracing system,Liverpool,North West,4282,3379,79
+People transferred to contact tracing system,Manchester,North West,5981,3895,65
+People transferred to contact tracing system,Oldham,North West,3009,2475,82
+People transferred to contact tracing system,Rochdale,North West,2376,1854,78
+People transferred to contact tracing system,Salford,North West,2077,1691,81
+People transferred to contact tracing system,Sefton,North West,1591,1338,84
+People transferred to contact tracing system,St. Helens,North West,1130,975,86
+People transferred to contact tracing system,Stockport,North West,1382,1119,81
+People transferred to contact tracing system,Tameside,North West,2041,1384,68
+People transferred to contact tracing system,Trafford,North West,1398,1213,87
+People transferred to contact tracing system,Warrington,North West,1312,1102,84
+People transferred to contact tracing system,Wigan,North West,1628,1075,66
+People transferred to contact tracing system,Wirral,North West,2247,1855,83
+People transferred to contact tracing system,Bracknell Forest,South East,191,156,82
+People transferred to contact tracing system,Brighton and Hove,South East,452,366,81
+People transferred to contact tracing system,Buckinghamshire,South East,881,749,85
+People transferred to contact tracing system,East Sussex,South East,770,633,82
+People transferred to contact tracing system,Hampshire,South East,1308,1122,86
+People transferred to contact tracing system,Isle of Wight,South East,84,79,94
+People transferred to contact tracing system,Kent,South East,3043,2431,80
+People transferred to contact tracing system,Medway,South East,329,273,83
+People transferred to contact tracing system,Oxfordshire,South East,1265,1033,82
+People transferred to contact tracing system,Portsmouth,South East,204,161,79
+People transferred to contact tracing system,Reading,South East,272,214,79
+People transferred to contact tracing system,Slough,South East,438,317,72
+People transferred to contact tracing system,Southampton,South East,331,275,83
+People transferred to contact tracing system,Surrey,South East,1821,1519,83
+People transferred to contact tracing system,West Berkshire,South East,168,135,80
+People transferred to contact tracing system,West Sussex,South East,1099,939,85
+People transferred to contact tracing system,Windsor and Maidenhead,South East,332,268,81
+People transferred to contact tracing system,Wokingham,South East,200,178,89
+People transferred to contact tracing system,Bath and North East Somerset,South West,228,202,89
+People transferred to contact tracing system,"Bournemouth, Christchurch and Poole",South West,452,392,87
+People transferred to contact tracing system,"Bristol, City of",South West,729,621,85
+People transferred to contact tracing system,Cornwall & Isles of Scilly,South West,564,417,74
+People transferred to contact tracing system,Devon,South West,558,474,85
+People transferred to contact tracing system,Dorset,South West,227,197,87
+People transferred to contact tracing system,Gloucestershire,South West,608,503,83
+People transferred to contact tracing system,North Somerset,South West,397,335,84
+People transferred to contact tracing system,Plymouth,South West,322,276,86
+People transferred to contact tracing system,Somerset,South West,539,398,74
+People transferred to contact tracing system,South Gloucestershire,South West,344,290,84
+People transferred to contact tracing system,Swindon,South West,786,675,86
+People transferred to contact tracing system,Torbay,South West,100,89,89
+People transferred to contact tracing system,Wiltshire,South West,527,446,85
+People transferred to contact tracing system,Birmingham,West Midlands,7623,5065,66
+People transferred to contact tracing system,Coventry,West Midlands,1216,969,80
+People transferred to contact tracing system,Dudley,West Midlands,746,612,82
+People transferred to contact tracing system,"Herefordshire, County of",West Midlands,337,190,56
+People transferred to contact tracing system,Sandwell,West Midlands,1883,1342,71
+People transferred to contact tracing system,Shropshire,West Midlands,720,623,87
+People transferred to contact tracing system,Solihull,West Midlands,884,705,80
+People transferred to contact tracing system,Staffordshire,West Midlands,2124,1505,71
+People transferred to contact tracing system,Stoke-on-Trent,West Midlands,971,756,78
+People transferred to contact tracing system,Telford and Wrekin,West Midlands,354,282,80
+People transferred to contact tracing system,Walsall,West Midlands,982,550,56
+People transferred to contact tracing system,Warwickshire,West Midlands,1368,1139,83
+People transferred to contact tracing system,Wolverhampton,West Midlands,1044,807,77
+People transferred to contact tracing system,Worcestershire,West Midlands,1148,945,82
+People transferred to contact tracing system,Barnsley,Yorkshire and Humber,1229,1035,84
+People transferred to contact tracing system,Bradford,Yorkshire and Humber,6539,4735,72
+People transferred to contact tracing system,Calderdale,Yorkshire and Humber,1241,1035,83
+People transferred to contact tracing system,Doncaster,Yorkshire and Humber,1068,860,81
+People transferred to contact tracing system,East Riding of Yorkshire,Yorkshire and Humber,711,594,84
+People transferred to contact tracing system,"Kingston upon Hull, City of",Yorkshire and Humber,520,428,82
+People transferred to contact tracing system,Kirklees,Yorkshire and Humber,3147,2451,78
+People transferred to contact tracing system,Leeds,Yorkshire and Humber,5022,3993,80
+People transferred to contact tracing system,North East Lincolnshire,Yorkshire and Humber,163,138,85
+People transferred to contact tracing system,North Lincolnshire,Yorkshire and Humber,307,256,83
+People transferred to contact tracing system,North Yorkshire,Yorkshire and Humber,1572,1342,85
+People transferred to contact tracing system,Rotherham,Yorkshire and Humber,1419,1126,79
+People transferred to contact tracing system,Sheffield,Yorkshire and Humber,3247,2461,76
+People transferred to contact tracing system,Wakefield,Yorkshire and Humber,1504,1234,82
+People transferred to contact tracing system,York,Yorkshire and Humber,474,392,83
+People transferred to contact tracing system,Unknown,Unknown,1672,555,33
+Non-complex close contacts identified,Derby,East Midlands,1747,1127,65
+Non-complex close contacts identified,Derbyshire,East Midlands,4409,3038,69
+Non-complex close contacts identified,Leicester,East Midlands,12662,6800,54
+Non-complex close contacts identified,Leicestershire,East Midlands,6555,4214,64
+Non-complex close contacts identified,Lincolnshire,East Midlands,3213,2127,66
+Non-complex close contacts identified,Northamptonshire,East Midlands,6032,3763,62
+Non-complex close contacts identified,Nottingham,East Midlands,2787,1720,62
+Non-complex close contacts identified,Nottinghamshire,East Midlands,4946,3150,64
+Non-complex close contacts identified,Rutland,East Midlands,174,126,72
+Non-complex close contacts identified,Bedford,East of England,1260,755,60
+Non-complex close contacts identified,Cambridgeshire,East of England,2067,1375,67
+Non-complex close contacts identified,Central Bedfordshire,East of England,1234,854,69
+Non-complex close contacts identified,Essex,East of England,4966,3391,68
+Non-complex close contacts identified,Hertfordshire,East of England,5714,3754,66
+Non-complex close contacts identified,Luton,East of England,2816,1467,52
+Non-complex close contacts identified,Milton Keynes,East of England,1050,672,64
+Non-complex close contacts identified,Norfolk,East of England,1986,1295,65
+Non-complex close contacts identified,Peterborough,East of England,2084,1034,50
+Non-complex close contacts identified,Southend-on-Sea,East of England,761,490,64
+Non-complex close contacts identified,Suffolk,East of England,1494,978,65
+Non-complex close contacts identified,Thurrock,East of England,691,428,62
+Non-complex close contacts identified,Barking and Dagenham,London,1385,792,57
+Non-complex close contacts identified,Barnet,London,1981,1263,64
+Non-complex close contacts identified,Bexley,London,970,654,67
+Non-complex close contacts identified,Brent,London,1608,977,61
+Non-complex close contacts identified,Bromley,London,1195,771,65
+Non-complex close contacts identified,Camden,London,944,612,65
+Non-complex close contacts identified,City of London & Hackney,London,1816,951,52
+Non-complex close contacts identified,Croydon,London,1444,923,64
+Non-complex close contacts identified,Ealing,London,1985,1284,65
+Non-complex close contacts identified,Enfield,London,1571,975,62
+Non-complex close contacts identified,Greenwich,London,1102,732,66
+Non-complex close contacts identified,Hammersmith and Fulham,London,913,656,72
+Non-complex close contacts identified,Haringey,London,1425,870,61
+Non-complex close contacts identified,Harrow,London,1398,897,64
+Non-complex close contacts identified,Havering,London,1751,1110,63
+Non-complex close contacts identified,Hillingdon,London,1902,1127,59
+Non-complex close contacts identified,Hounslow,London,1678,997,59
+Non-complex close contacts identified,Islington,London,1073,730,68
+Non-complex close contacts identified,Kensington and Chelsea,London,597,402,67
+Non-complex close contacts identified,Kingston upon Thames,London,772,508,66
+Non-complex close contacts identified,Lambeth,London,1536,1122,73
+Non-complex close contacts identified,Lewisham,London,1116,709,64
+Non-complex close contacts identified,Merton,London,763,524,69
+Non-complex close contacts identified,Newham,London,1540,887,58
+Non-complex close contacts identified,Redbridge,London,2129,1224,57
+Non-complex close contacts identified,Richmond upon Thames,London,1030,706,69
+Non-complex close contacts identified,Southwark,London,1296,861,66
+Non-complex close contacts identified,Sutton,London,686,466,68
+Non-complex close contacts identified,Tower Hamlets,London,1848,1112,60
+Non-complex close contacts identified,Waltham Forest,London,1451,859,59
+Non-complex close contacts identified,Wandsworth,London,1933,1368,71
+Non-complex close contacts identified,Westminster,London,884,563,64
+Non-complex close contacts identified,County Durham,North East,4561,3086,68
+Non-complex close contacts identified,Darlington,North East,636,406,64
+Non-complex close contacts identified,Gateshead,North East,2874,1940,68
+Non-complex close contacts identified,Hartlepool,North East,1269,859,68
+Non-complex close contacts identified,Middlesbrough,North East,1667,1023,61
+Non-complex close contacts identified,Newcastle upon Tyne,North East,6066,3907,64
+Non-complex close contacts identified,North Tyneside,North East,2363,1682,71
+Non-complex close contacts identified,Northumberland,North East,3381,2341,69
+Non-complex close contacts identified,Redcar and Cleveland,North East,1013,698,69
+Non-complex close contacts identified,South Tyneside,North East,2723,1836,67
+Non-complex close contacts identified,Stockton-on-Tees,North East,1787,1182,66
+Non-complex close contacts identified,Sunderland,North East,4293,2860,67
+Non-complex close contacts identified,Blackburn with Darwen,North West,5298,2641,50
+Non-complex close contacts identified,Blackpool,North West,1268,803,63
+Non-complex close contacts identified,Bolton,North West,6385,3619,57
+Non-complex close contacts identified,Bury,North West,3253,1879,58
+Non-complex close contacts identified,Cheshire East,North West,2807,1907,68
+Non-complex close contacts identified,Cheshire West and Chester,North West,2947,2056,70
+Non-complex close contacts identified,Cumbria,North West,2645,1753,66
+Non-complex close contacts identified,Halton,North West,2016,1267,63
+Non-complex close contacts identified,Knowsley,North West,2839,1804,64
+Non-complex close contacts identified,Lancashire,North West,16600,9729,59
+Non-complex close contacts identified,Liverpool,North West,10002,6344,63
+Non-complex close contacts identified,Manchester,North West,13183,7359,56
+Non-complex close contacts identified,Oldham,North West,7761,4021,52
+Non-complex close contacts identified,Rochdale,North West,5578,3140,56
+Non-complex close contacts identified,Salford,North West,4491,2766,62
+Non-complex close contacts identified,Sefton,North West,3684,2417,66
+Non-complex close contacts identified,St. Helens,North West,3058,1940,63
+Non-complex close contacts identified,Stockport,North West,3113,1970,63
+Non-complex close contacts identified,Tameside,North West,3558,2129,60
+Non-complex close contacts identified,Trafford,North West,2844,1738,61
+Non-complex close contacts identified,Warrington,North West,3371,2257,67
+Non-complex close contacts identified,Wigan,North West,3352,2136,64
+Non-complex close contacts identified,Wirral,North West,5516,3666,66
+Non-complex close contacts identified,Bracknell Forest,South East,548,375,68
+Non-complex close contacts identified,Brighton and Hove,South East,1343,931,69
+Non-complex close contacts identified,Buckinghamshire,South East,2320,1514,65
+Non-complex close contacts identified,East Sussex,South East,1624,1087,67
+Non-complex close contacts identified,Hampshire,South East,3800,2703,71
+Non-complex close contacts identified,Isle of Wight,South East,161,102,63
+Non-complex close contacts identified,Kent,South East,6360,4080,64
+Non-complex close contacts identified,Medway,South East,813,543,67
+Non-complex close contacts identified,Oxfordshire,South East,3360,2140,64
+Non-complex close contacts identified,Portsmouth,South East,470,332,71
+Non-complex close contacts identified,Reading,South East,617,417,68
+Non-complex close contacts identified,Slough,South East,891,521,58
+Non-complex close contacts identified,Southampton,South East,770,468,61
+Non-complex close contacts identified,Surrey,South East,4696,3102,66
+Non-complex close contacts identified,West Berkshire,South East,433,296,68
+Non-complex close contacts identified,West Sussex,South East,3063,2092,68
+Non-complex close contacts identified,Windsor and Maidenhead,South East,689,453,66
+Non-complex close contacts identified,Wokingham,South East,581,403,69
+Non-complex close contacts identified,Bath and North East Somerset,South West,828,608,73
+Non-complex close contacts identified,"Bournemouth, Christchurch and Poole",South West,1332,913,69
+Non-complex close contacts identified,"Bristol, City of",South West,1989,1273,64
+Non-complex close contacts identified,Cornwall & Isles of Scilly,South West,1081,744,69
+Non-complex close contacts identified,Devon,South West,1999,1337,67
+Non-complex close contacts identified,Dorset,South West,809,560,69
+Non-complex close contacts identified,Gloucestershire,South West,1801,1237,69
+Non-complex close contacts identified,North Somerset,South West,915,610,67
+Non-complex close contacts identified,Plymouth,South West,930,643,69
+Non-complex close contacts identified,Somerset,South West,1123,755,67
+Non-complex close contacts identified,South Gloucestershire,South West,1052,728,69
+Non-complex close contacts identified,Swindon,South West,2124,1285,60
+Non-complex close contacts identified,Torbay,South West,359,234,65
+Non-complex close contacts identified,Wiltshire,South West,1235,846,69
+Non-complex close contacts identified,Birmingham,West Midlands,15621,8288,53
+Non-complex close contacts identified,Coventry,West Midlands,3114,1902,61
+Non-complex close contacts identified,Dudley,West Midlands,1899,1238,65
+Non-complex close contacts identified,"Herefordshire, County of",West Midlands,551,362,66
+Non-complex close contacts identified,Sandwell,West Midlands,4233,2403,57
+Non-complex close contacts identified,Shropshire,West Midlands,1559,998,64
+Non-complex close contacts identified,Solihull,West Midlands,2379,1487,63
+Non-complex close contacts identified,Staffordshire,West Midlands,4454,2925,66
+Non-complex close contacts identified,Stoke-on-Trent,West Midlands,2172,1262,58
+Non-complex close contacts identified,Telford and Wrekin,West Midlands,883,541,61
+Non-complex close contacts identified,Walsall,West Midlands,1794,1136,63
+Non-complex close contacts identified,Warwickshire,West Midlands,3601,2469,69
+Non-complex close contacts identified,Wolverhampton,West Midlands,2463,1388,56
+Non-complex close contacts identified,Worcestershire,West Midlands,2929,1944,66
+Non-complex close contacts identified,Barnsley,Yorkshire and Humber,2648,1691,64
+Non-complex close contacts identified,Bradford,Yorkshire and Humber,15624,7462,48
+Non-complex close contacts identified,Calderdale,Yorkshire and Humber,3140,1758,56
+Non-complex close contacts identified,Doncaster,Yorkshire and Humber,2444,1526,62
+Non-complex close contacts identified,East Riding of Yorkshire,Yorkshire and Humber,1587,1060,67
+Non-complex close contacts identified,"Kingston upon Hull, City of",Yorkshire and Humber,1033,624,60
+Non-complex close contacts identified,Kirklees,Yorkshire and Humber,7418,4064,55
+Non-complex close contacts identified,Leeds,Yorkshire and Humber,12799,7839,61
+Non-complex close contacts identified,North East Lincolnshire,Yorkshire and Humber,495,332,67
+Non-complex close contacts identified,North Lincolnshire,Yorkshire and Humber,780,553,71
+Non-complex close contacts identified,North Yorkshire,Yorkshire and Humber,3941,2624,67
+Non-complex close contacts identified,Rotherham,Yorkshire and Humber,3491,2176,62
+Non-complex close contacts identified,Sheffield,Yorkshire and Humber,7809,4659,60
+Non-complex close contacts identified,Wakefield,Yorkshire and Humber,3577,2220,62
+Non-complex close contacts identified,York,Yorkshire and Humber,1295,891,69
+Non-complex close contacts identified,Unknown,Unknown,1840,463,25

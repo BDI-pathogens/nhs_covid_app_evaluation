@@ -1,0 +1,379 @@
+local_authority,country,region
+Aberdeen City,Scotland,Scotland
+Aberdeenshire,Scotland,Scotland
+Moray,Scotland,Scotland
+St Albans,England,East of England
+Welwyn Hatfield,England,East of England
+Birmingham,England,West Midlands
+Solihull,England,West Midlands
+Sandwell,England,West Midlands
+North Warwickshire,England,West Midlands
+Bromsgrove,England,West Midlands
+Stratford-on-Avon,England,West Midlands
+Dudley,England,West Midlands
+Tamworth,England,West Midlands
+Redditch,England,West Midlands
+Bath and North East Somerset,England,South West
+South Somerset,England,South West
+Mendip,England,South West
+Wiltshire,England,South West
+Blackburn with Darwen,England,North West
+Burnley,England,North West
+Pendle,England,North West
+Rossendale,England,North West
+Hyndburn,England,North West
+Ribble Valley,England,North West
+Bradford,England,Yorkshire and The Humber
+Leeds,England,Yorkshire and The Humber
+Kirklees,England,Yorkshire and The Humber
+Craven,England,Yorkshire and The Humber
+"Bournemouth, Christchurch and Poole",England,South West
+Dorset,England,South West
+New Forest,England,South East
+Bury,England,North West
+Bolton,England,North West
+Brighton and Hove,England,South East
+Lewes,England,South East
+Worthing,England,South East
+Adur,England,South East
+Arun,England,South East
+Eastbourne,England,South East
+Wealden,England,South East
+Horsham,England,South East
+Mid Sussex,England,South East
+Bromley,England,London
+Sevenoaks,England,South East
+"Bristol, City of",England,South West
+South Gloucestershire,England,South West
+North Somerset,England,South West
+Sedgemoor,England,South West
+Belfast,Northern Ireland,Northern Ireland
+Lisburn and Castlereagh,Northern Ireland,Northern Ireland
+Ards and North Down,Northern Ireland,Northern Ireland
+"Newry, Mourne and Down",Northern Ireland,Northern Ireland
+"Armagh City, Banbridge and Craigavon",Northern Ireland,Northern Ireland
+Antrim and Newtownabbey,Northern Ireland,Northern Ireland
+Mid and East Antrim,Northern Ireland,Northern Ireland
+Mid Ulster,Northern Ireland,Northern Ireland
+Derry City and Strabane,Northern Ireland,Northern Ireland
+Causeway Coast and Glens,Northern Ireland,Northern Ireland
+Fermanagh and Omagh,Northern Ireland,Northern Ireland
+Carlisle,England,North West
+Eden,England,North West
+Allerdale,England,North West
+Copeland,England,North West
+Cambridge,England,East of England
+Uttlesford,England,East of England
+South Cambridgeshire,England,East of England
+East Cambridgeshire,England,East of England
+West Suffolk,England,East of England
+Cardiff,Wales,Wales
+Bridgend,Wales,Wales
+Rhondda Cynon Taf,Wales,Wales
+Merthyr Tydfil,Wales,Wales
+Vale of Glamorgan,Wales,Wales
+Caerphilly,Wales,Wales
+Cheshire West and Chester,England,North West
+Wirral,England,North West
+Flintshire,Wales,Wales
+Maldon,England,East of England
+Chelmsford,England,East of England
+Basildon,England,East of England
+Brentwood,England,East of England
+Epping Forest,England,East of England
+Harlow,England,East of England
+East Hertfordshire,England,East of England
+Braintree,England,East of England
+Colchester,England,East of England
+Babergh,England,East of England
+Tendring,England,East of England
+Croydon,England,London
+Tandridge,England,South East
+Merton,England,London
+Sutton,England,London
+Canterbury,England,South East
+Thanet,England,South East
+Dover,England,South East
+Folkestone and Hythe,England,South East
+Coventry,England,West Midlands
+Nuneaton and Bedworth,England,West Midlands
+Hinckley and Bosworth,England,East Midlands
+Rugby,England,West Midlands
+Warwick,England,West Midlands
+Cheshire East,England,North West
+Newcastle-under-Lyme,England,West Midlands
+Dartford,England,South East
+Gravesham,England,South East
+Bexley,England,London
+Dundee City,Scotland,Scotland
+Angus,Scotland,Scotland
+Fife,Scotland,Scotland
+Derby,England,East Midlands
+South Derbyshire,England,East Midlands
+North West Leicestershire,England,East Midlands
+East Staffordshire,England,West Midlands
+Derbyshire Dales,England,East Midlands
+Amber Valley,England,East Midlands
+Erewash,England,East Midlands
+Dumfries and Galloway,England,Scotland
+County Durham,England,North East
+Gateshead,England,North East
+Sunderland,England,North East
+Darlington,England,North East
+Richmondshire,England,Yorkshire and The Humber
+Hambleton,England,Yorkshire and The Humber
+Doncaster,England,Yorkshire and The Humber
+Bassetlaw,England,East Midlands
+East Riding of Yorkshire,England,Yorkshire and The Humber
+North Lincolnshire,England,Yorkshire and The Humber
+West Lindsey,England,East Midlands
+North East Lincolnshire,England,Yorkshire and The Humber
+Wyre Forest,England,West Midlands
+Shropshire,England,West Midlands
+South Staffordshire,England,West Midlands
+Tower Hamlets,England,London
+Waltham Forest,England,London
+Newham,England,London
+Redbridge,England,London
+Hackney,England,London
+City of London,England,London
+Islington,England,London
+Camden,England,London
+City of Edinburgh,Scotland,Scotland
+Midlothian,Scotland,Scotland
+East Lothian,Scotland,Scotland
+West Lothian,Scotland,Scotland
+Scottish Borders,England,Scotland
+Falkirk,Scotland,Scotland
+Enfield,England,London
+Broxbourne,England,East of England
+Barnet,England,London
+Hertsmere,England,East of England
+Exeter,England,South West
+East Devon,England,South West
+Mid Devon,England,South West
+Torridge,England,South West
+West Devon,England,South West
+Cornwall,England,South West
+North Devon,England,South West
+Teignbridge,England,South West
+Clackmannanshire,Scotland,Scotland
+Stirling,Scotland,Scotland
+Blackpool,England,North West
+Wyre,England,North West
+Fylde,England,North West
+Glasgow City,Scotland,Scotland
+East Renfrewshire,Scotland,Scotland
+West Dunbartonshire,Scotland,Scotland
+East Dunbartonshire,Scotland,Scotland
+North Lanarkshire,Scotland,Scotland
+South Lanarkshire,Scotland,Scotland
+Argyll and Bute,Scotland,Scotland
+Gloucester,England,South West
+Stroud,England,South West
+Forest of Dean,England,South West
+Tewkesbury,England,South West
+Cheltenham,England,South West
+Cotswold,England,South West
+Guildford,England,South East
+Waverley,England,South East
+Rushmoor,England,South East
+Surrey Heath,England,South East
+Hart,England,South East
+Woking,England,South East
+Runnymede,England,South East
+Chichester,England,South East
+East Hampshire,England,South East
+Bracknell Forest,England,South East
+Brent,England,London
+Harrow,England,London
+Hillingdon,England,London
+Calderdale,England,Yorkshire and The Humber
+Harrogate,England,Yorkshire and The Humber
+Dacorum,England,East of England
+Buckinghamshire,England,South East
+"Herefordshire, County of",England,West Midlands
+Na h-Eileanan Siar,Scotland,Scotland
+"Kingston upon Hull, City of",England,Yorkshire and The Humber
+Barking and Dagenham,England,London
+Ipswich,England,East of England
+East Suffolk,England,East of England
+Mid Suffolk,England,East of England
+South Norfolk,England,East of England
+Breckland,England,East of England
+King's Lynn and West Norfolk,England,East of England
+Highland,Scotland,Scotland
+East Ayrshire,Scotland,Scotland
+South Ayrshire,Scotland,Scotland
+North Ayrshire,Scotland,Scotland
+Kingston upon Thames,England,London
+Elmbridge,England,South East
+Epsom and Ewell,England,South East
+Reigate and Banstead,England,South East
+Mole Valley,England,South East
+Orkney Islands,Scotland,Scotland
+Perth and Kinross,Scotland,Scotland
+Liverpool,England,North West
+Sefton,England,North West
+Knowsley,England,North West
+West Lancashire,England,North West
+Lancaster,England,North West
+South Lakeland,England,North West
+Barrow-in-Furness,England,North West
+Powys,Wales,Wales
+Leicester,England,East Midlands
+Charnwood,England,East Midlands
+Melton,England,East Midlands
+Rutland,England,East Midlands
+Harborough,England,East Midlands
+Oadby and Wigston,England,East Midlands
+Blaby,England,East Midlands
+Wrexham,Wales,Wales
+Denbighshire,Wales,Wales
+Conwy,Wales,Wales
+Gwynedd,Wales,Wales
+Isle of Anglesey,Wales,Wales
+Lincoln,England,East Midlands
+East Lindsey,England,East Midlands
+North Kesteven,England,East Midlands
+Selby,England,Yorkshire and The Humber
+Luton,England,East of England
+Central Bedfordshire,England,East of England
+Manchester,England,North West
+Trafford,England,North West
+Rochdale,England,North West
+Salford,England,North West
+Wigan,England,North West
+Tameside,England,North West
+Oldham,England,North West
+Medway,England,South East
+Swale,England,South East
+Maidstone,England,South East
+Tonbridge and Malling,England,South East
+Milton Keynes,England,South East
+South Northamptonshire,England,East Midlands
+Bedford,England,East of England
+Haringey,England,London
+Newcastle upon Tyne,England,North East
+North Tyneside,England,North East
+Northumberland,England,North East
+South Tyneside,England,North East
+Nottingham,England,East Midlands
+Rushcliffe,England,East Midlands
+Gedling,England,East Midlands
+Ashfield,England,East Midlands
+Broxtowe,England,East Midlands
+Mansfield,England,East Midlands
+Bolsover,England,East Midlands
+Newark and Sherwood,England,East Midlands
+South Kesteven,England,East Midlands
+Northampton,England,East Midlands
+East Northamptonshire,England,East Midlands
+Daventry,England,East Midlands
+Kettering,England,East Midlands
+Corby,England,East Midlands
+Wellingborough,England,East Midlands
+Newport,Wales,Wales
+Blaenau Gwent,Wales,Wales
+Monmouthshire,Wales,Wales
+Torfaen,Wales,Wales
+Norwich,England,East of England
+Broadland,England,East of England
+North Norfolk,England,East of England
+Great Yarmouth,England,East of England
+Westminster,England,London
+Oxford,England,South East
+South Oxfordshire,England,South East
+Vale of White Horse,England,South East
+Cherwell,England,South East
+West Oxfordshire,England,South East
+Renfrewshire,Scotland,Scotland
+Inverclyde,Scotland,Scotland
+Peterborough,England,East of England
+South Holland,England,East Midlands
+Fenland,England,East of England
+Huntingdonshire,England,East of England
+Boston,England,East Midlands
+Plymouth,England,South West
+South Hams,England,South West
+Portsmouth,England,South East
+Havant,England,South East
+Gosport,England,South East
+Fareham,England,South East
+Winchester,England,South East
+Isle of Wight,England,South East
+Preston,England,North West
+South Ribble,England,North West
+Chorley,England,North West
+Reading,England,South East
+Wokingham,England,South East
+West Berkshire,England,South East
+Basingstoke and Deane,England,South East
+Crawley,England,South East
+Havering,England,London
+Thurrock,England,East of England
+Sheffield,England,Yorkshire and The Humber
+North East Derbyshire,England,East Midlands
+Rotherham,England,Yorkshire and The Humber
+High Peak,England,East Midlands
+Barnsley,England,Yorkshire and The Humber
+Chesterfield,England,East Midlands
+Swansea,Wales,Wales
+Neath Port Talbot,Wales,Wales
+Carmarthenshire,Wales,Wales
+Pembrokeshire,Wales,Wales
+Ceredigion,Wales,Wales
+Southwark,England,London
+Greenwich,England,London
+Lambeth,England,London
+Lewisham,England,London
+Stevenage,England,East of England
+North Hertfordshire,England,East of England
+Stockport,England,North West
+Slough,England,South East
+Windsor and Maidenhead,England,South East
+Swindon,England,South West
+Southampton,England,South East
+Test Valley,England,South East
+Eastleigh,England,South East
+Southend-on-Sea,England,East of England
+Rochford,England,East of England
+Castle Point,England,East of England
+Stoke-on-Trent,England,West Midlands
+Staffordshire Moorlands,England,West Midlands
+Stafford,England,West Midlands
+Kensington and Chelsea,England,London
+Wandsworth,England,London
+Richmond upon Thames,England,London
+Hammersmith and Fulham,England,London
+Somerset West and Taunton,England,South West
+Telford and Wrekin,England,West Midlands
+Tunbridge Wells,England,South East
+Rother,England,South East
+Ashford,England,South East
+Hastings,England,South East
+Torbay,England,South West
+Middlesbrough,England,North East
+Redcar and Cleveland,England,North East
+Stockton-on-Tees,England,North East
+Hartlepool,England,North East
+Hounslow,England,London
+Spelthorne,England,South East
+Ealing,England,London
+Warrington,England,North West
+St. Helens,England,North West
+Halton,England,North West
+Watford,England,East of England
+Three Rivers,England,East of England
+Wakefield,England,Yorkshire and The Humber
+Worcester,England,West Midlands
+Wychavon,England,West Midlands
+Malvern Hills,England,West Midlands
+Walsall,England,West Midlands
+Cannock Chase,England,West Midlands
+Lichfield,England,West Midlands
+Wolverhampton,England,West Midlands
+York,England,Yorkshire and The Humber
+Scarborough,England,Yorkshire and The Humber
+Ryedale,England,Yorkshire and The Humber
+Shetland Islands,Scotland,Scotland
