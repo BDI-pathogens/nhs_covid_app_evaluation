@@ -1,1 +1,3 @@
-# nhs_covid_app_evaluation
+Analysis code for <a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Epidemiological_Impact_of_the_NHS_COVID_19_App_Public_Release_V1.pdf" target="_blank">Wymant & Ferretti et al. 2021</a> (under review; correspondence to <a href="https://www.bdi.ox.ac.uk/Team/christophe-fraser" target="_blank"> Christophe Fraser</a>).  
+Note that the illustratory app uptake data included here is simulated, not real! It is also somewhat unrealistic in that it is constant over time for each local authority, and wholly uncorrelated with COVID-19 case numbers, unlike our findings with real data.
+Input data for the modelling part of the analysis not included.
